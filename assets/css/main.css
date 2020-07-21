@@ -1985,7 +1985,7 @@ button,
       line-height: 1;
       text-transform: none !important;
       font-family: 'Font Awesome 5 Free';
-      font-weight: 900; }
+      font-weight: 1900; }
     #sidebar .toggle:before {
       content: '\f0c9';
       font-size: 2rem;
